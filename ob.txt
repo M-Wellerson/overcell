@@ -1,0 +1,3 @@
+vendas anuais, vendas mensais, vendas diarias
+cadastro de venda: produto, meio de pagamneto, valor
+filtros de vendas por data
