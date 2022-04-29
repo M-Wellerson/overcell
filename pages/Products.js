@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Main from '../components/Main'
+import TableProducts from '../components/TableProducts'
 import MenuHeader from '../components/MenuHeader'
 import SideBar from '../components/SideBar'
 
@@ -13,7 +13,7 @@ export default function Home() {
       <SideBar />
       <div className="flex flex-col flex-1 w-full">
         <MenuHeader />
-        <Main />
+        <TableProducts />
       </div>
     </div>
   )
